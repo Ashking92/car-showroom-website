@@ -1,5 +1,7 @@
 # Car Showroom Website
 
+# Preview
+https://codepen.io/Ashking92/pen/PoMwxXM
 ## Overview
 The Car Showroom Website is a dynamic and responsive web application that showcases a collection of cars available for sale. Built using HTML, CSS, and JavaScript, this project allows users to explore various car models, view details, and contact the showroom for inquiries.
 
